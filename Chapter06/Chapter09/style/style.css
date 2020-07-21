@@ -1,3 +1,25 @@
 body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+}
+
+h1,h2{
+    color: #c60;
+    border-bottom: thin dotted #888888;
+}
+
+h1{
+    font-size: 170%;
+}
+
+h2{
+    font-size: 130%;
+}
+
+em{
+    text-decoration: underline overline;
+}
+
+blockquote{
+    font-style: italic;
 }
